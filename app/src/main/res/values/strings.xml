@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="txt_calculadora">CALCULADORA</string>
+    <string name="edt_numero_1">NUMERO 1</string>
+    <string name="edt_numero_2">NUMERO 2</string>
+    <string name="btn_sumar">SUMAR</string>
+    <string name="btn_dividir">DIVIDIR</string>
+    <string name="btn_multiplicar">MULTIPLICAR</string>
+    <string name="btn_restar">RESTAR</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="bt_text_sumar">+</string>
+    <string name="bt_dividir">/</string>
+    <string name="bt_multiplicar">X</string>
+    <string name="bt_restar">-</string>
+</resources>
